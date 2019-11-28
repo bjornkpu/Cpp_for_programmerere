@@ -1,0 +1,10 @@
+- Forklar hvordan 5 - 3 - fraction1 - 7 - fraction2 blir tolket.
+
+(((5 - 3) - fraction1) - 7) - fraction2
+C++ er et venstreassosiativt språk slik at 5 - 3 har høyere prioritet siden det er det første. 
+
+
+- Hvilke versjoner av operatoren - blir brukt?
+
+Bare den binære versjonen blir brukt om man tenker på hvordan jeg har implimentert metodene som trengs.
+Det er ikke usansynlig at man i en annen implimentasjon ville ha brukt den unære for å behandle negative brøker bedre.
